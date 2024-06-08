@@ -32,7 +32,7 @@
 
 - 🧑‍💻 I have great interest in web development. So, I am learning about FrontEnd development and BackEnd development.
 
-- 💬 Ask me about **HTML, CSS, JS, PYTHON.**
+- 💬 Ask me about **HTML, CSS, JS, PYTHON, HASKELL.**
 
 - 📫 Feel free to reach me out **rodrigojunco023@gmail.com**
 <!--Intro end-->
