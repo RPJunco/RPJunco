@@ -34,7 +34,6 @@
 
 - 💬 Ask me about **HTML, CSS, JS, PYTHON, HASKELL.**
 
-- 📫 Feel free to reach me out **rodrigojunco023@gmail.com**
 <!--Intro end-->
 
 
